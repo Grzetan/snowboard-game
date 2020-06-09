@@ -1,0 +1,3 @@
+sound -1
+count_down -1
+flag_warning 1
